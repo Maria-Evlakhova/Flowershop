@@ -1,0 +1,149 @@
+body {width: 960px;
+margin: 0 auto;
+font-family: Arial, Verdana, sans-serif;
+border: 1px solid #DCDCDC;}
+
+
+p {text-align: center;
+	width: 250px;
+border: 2px dotted #A9A9A9;
+border-radius: 10px;
+padding: 8px;
+margin: 10px;
+display: inline-block;}
+
+p.one {
+	width: 250px;
+border: 2px dotted #A9A9A9;
+border-radius: 10px;
+padding: 10px;
+margin: 20px;
+margin-bottom: 10px;
+display: inline-block;
+position: center;
+ }
+
+p.two {width: 250px;
+border: 2px dotted #A9A9A9;
+border-radius: 10px;
+padding: 10px;
+margin: 20px;
+margin-top: 1px; 
+
+display: inline-block;}
+
+button.ex { font-family: Arial, Verdana, sans-serif;
+	background-color: #800080;
+	color: white;
+	width: 250px;
+	height: 45px;
+	position: relative;
+	left:347px;
+	bottom: 1px;
+	padding: 5px;
+margin: 5px;
+border-radius: 10px; }
+
+hr {border: 1px solid #800080;
+}
+
+p.three { text-align: center;
+	font-size: 30px;
+	line-height: 36px;
+	width: 95%;
+border: 2px dotted #A9A9A9;
+border-radius: 10px;
+display: inline-block;}
+
+p.four {
+	font-weight: bold;
+    text-align: center;
+	font-size: 25px;
+    border: 2px dotted #A9A9A9;
+    border-radius: 13px;
+    padding: 10px;
+    margin: 1px 20px 1px 20px;
+    display: inline-block;}
+p.x { text-align: left;
+	font-size: 20px;
+	width: 95%;
+	margin-top: 20px;
+border: 2px dotted #A9A9A9;
+border-radius: 10px;
+display: inline-block;}
+
+.entry {float: left;}
+
+figure {display: block;
+	width: 302px; 
+	background-color: #fcf5fc; 
+margin: 5px;
+	padding: 3px;
+text-align: center;
+}
+figcaption {padding: 5px;
+	border: 2px dotted #A9A9A9;}
+
+p.number {width: 40px;
+padding: 8px 10px;
+margin: 10px;
+float: left;
+display: inline-block;
+position: left;}
+
+p.word {width: 349px;
+text-align: left;
+padding: 8px 10px;
+margin: 10px;
+float: left;
+display: inline-block;
+position: left;}
+
+p.nu {width: 40px;
+padding: 8px 10px;
+margin: 10px;
+float: left;
+display: inline-block;
+position: left;
+}
+
+p.wo {width: 349px;
+text-align: left;
+padding: 8px 10px;
+margin: 10px;
+float: left;
+display: inline-block;
+position: left;
+ }
+
+p.w {text-align: center;
+	font-size: 20px;
+	width: 95%;
+border: 2px dotted #A9A9A9;
+border-radius: 10px;
+display: inline-block;
+margin-bottom: 0px; }
+
+button.p { font-family: Arial, Verdana, sans-serif; font-size: 30px;
+	background-color: #FF00FF;
+	color: white;
+	width: 500px;
+	height:55px;
+	
+	margin: 10px 250px 10px 250px;
+	
+border-radius: 10px;}
+ 
+ p.last {text-align: center;
+	width: 500px;
+border: none;
+padding: 5px;
+margin: 5px 236px 5px;
+}
+
+p.g {text-align: center;
+	font-size: 27px;
+	width: 500px;
+border: none;
+padding: 5px;
+margin: 5px 236px }
